@@ -1,0 +1,2 @@
+pillow==10.0.0        # For handling image files (PIL)
+pytesseract==0.3.10   # For OCR functionality
